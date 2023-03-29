@@ -7,3 +7,5 @@ import PostSchema from '../mongodb/model/post.js';
 dotenv.config();
 
 const router = express.Router();
+
+export default router;
